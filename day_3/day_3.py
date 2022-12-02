@@ -1,4 +1,7 @@
 # https://adventofcode.com/2021/day/3#part2
+
+# Not super happy with the current version, looking forward to updating it in the future 2/12/2022
+
 import math
 
 str_array=[]
